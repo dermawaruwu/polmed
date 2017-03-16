@@ -1,0 +1,1 @@
+<?= "Saya lagi di View + Controller. Selamat datang, ". $namaUser;                       
